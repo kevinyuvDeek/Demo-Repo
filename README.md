@@ -22,3 +22,7 @@ Git Commands;
     commit- To save files in git.
     push- To upload your files in the repository in gitHub.
     pull- To get the Changes form the repo to our local machine.
+
+
+step 1: Login to gitHub.
+step 2: Create a new project repo.
